@@ -1,0 +1,9 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Python template
+
+*.env
+*.pyc
+#*.log
+.idea/
+data/
+tests/
